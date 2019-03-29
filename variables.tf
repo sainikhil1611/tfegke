@@ -6,7 +6,7 @@ variable "project" {
 }
 
 variable "region" {
-  default = "us-east4"
+  default = "us-central1"
 }
 
 variable "cluster_name" {
@@ -14,7 +14,7 @@ variable "cluster_name" {
 }
 
 variable "cluster_zone" {
-  default = "us-east4-c"
+  default = "us-central1-a"
 }
 
 variable "cluster_k8s_version" {
