@@ -42,5 +42,5 @@ variable "disk_type" {
 }
 
 variable "machine_type" {
-  default = "n1-standard-2"
+  default = "n1-standard-1"
 }
