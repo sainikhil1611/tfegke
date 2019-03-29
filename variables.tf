@@ -14,7 +14,7 @@ variable "cluster_name" {
 }
 
 variable "cluster_zone" {
-  default = "us-west4-c"
+  default = "us-east4-c"
 }
 
 variable "cluster_k8s_version" {
