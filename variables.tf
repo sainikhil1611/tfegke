@@ -22,7 +22,7 @@ variable "cluster_k8s_version" {
 }
 
 variable "initial_node_count" {
-  default = 3
+  default = 2
 }
 
 variable "autoscaling_min_node_count" {
