@@ -34,7 +34,7 @@ variable "autoscaling_max_node_count" {
 }
 
 variable "disk_size_gb" {
-  default = 100
+  default = 70
 }
 
 variable "disk_type" {
